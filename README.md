@@ -1,3 +1,8 @@
+![Status](https://img.shields.io/badge/status-prototype-blue)
+![License](https://img.shields.io/badge/license-proprietary-lightgrey)
+![Domain](https://img.shields.io/badge/domain-time--series-informational)
+
+
 # Common-Time
 
 Common-Time is an analysis tool designed to extract a **robust common temporal signal**
