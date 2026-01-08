@@ -64,4 +64,4 @@ on a synthetic multi-station dataset.
 ## Contact
 
 For evaluation, partnership, or incubator programs:  
-📧 contact@ervra.tech
+contact@ervra.tech
